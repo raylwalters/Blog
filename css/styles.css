@@ -1,0 +1,16 @@
+.col-md-2 p{
+	display:inline;
+}
+.footer{
+	position:absolute;
+	bottom:0;
+}
+.header{
+	background-color: grey;
+}
+a:link{
+	color:blue;
+}
+a:visited{
+	color:gold;
+}
